@@ -12,6 +12,7 @@ Repository Projects and Assignments
 [lab02] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab2.ipynb]<br>
 [lab03] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab03.ipynb]<br>
 [lab04] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab04.ipynb]<br>
+[lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab05.ipynb]<br>
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab_6.ipynb]<br>
 
 
