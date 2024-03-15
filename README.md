@@ -15,5 +15,5 @@ Repository Projects and Assignments
 [lab04] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab04.ipynb]<br>
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab05.ipynb]<br>
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab_6.ipynb]<br>
-
+[lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab07.ipynb]
 
