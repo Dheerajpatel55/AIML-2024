@@ -8,6 +8,7 @@ Repository Projects and Assignments
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A6.pdf]<br>
 [lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A7.pdf]<br>
 [lab08] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A8.pdf]<br>
+[lab09] [https://github.com/Dheerahpatel55/AIML-2024/blob/main/AIML_A9.pdf]
 
 
 # lab code Notebooks
@@ -18,5 +19,5 @@ Repository Projects and Assignments
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab05.ipynb]<br>
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab_6.ipynb]<br>
 [lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab07.ipynb]<br>
-[lab08] []
+[lab08] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab08.ipynb]
 
