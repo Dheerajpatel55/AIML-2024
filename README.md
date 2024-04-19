@@ -21,5 +21,7 @@ Repository Projects and Assignments
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab_6.ipynb]<br>
 [lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab07.ipynb]<br>
 [lab08] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab08.ipynb]<br>
-[lab09] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab09.ipynb]
+[lab09] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab09.ipynb]<br>
+
+[Project] [https://github.com/satkurikailash/AIML-project-IoT-Device-Anomaly-Detection]
 
