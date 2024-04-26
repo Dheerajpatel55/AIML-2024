@@ -8,8 +8,8 @@ Repository Projects and Assignments
 [lab06] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A6.pdf]<br>
 [lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A7.pdf]<br>
 [lab08] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A8.pdf]<br>
-[lab09] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A9.pdf]
-
+[lab09] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A9.pdf]<br>
+[lab10] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/AIML_A10.pdf]
 
 
 # lab code Notebooks
@@ -22,6 +22,7 @@ Repository Projects and Assignments
 [lab07] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/lab07.ipynb]<br>
 [lab08] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab08.ipynb]<br>
 [lab09] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab09.ipynb]<br>
+[lab10] [https://github.com/Dheerajpatel55/AIML-2024/blob/main/Lab10.ipynb]
 
 [Project] [https://github.com/satkurikailash/AIML-project-IoT-Device-Anomaly-Detection]
 
